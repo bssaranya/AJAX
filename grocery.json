@@ -1,0 +1,92 @@
+{
+    "items":[
+        {
+            "SerialNo":"SerialNo",
+            "Name":"Name",
+            "Quantity":"Quantity",
+            "Unit": "Unit",
+            "Department":"Department",
+            "Note":"Note"
+        },
+        {
+            "SerialNo":1,
+            "Name":"Cucumber",
+            "Quantity":1,
+            "Unit": "kg",
+            "Department":"Vegetable",
+            "Note":"For Salad"
+        },
+        {
+            "SerialNo":2,
+            "Name":"Rice",
+            "Quantity":10,
+            "Unit": "kg",
+            "Department":"Cereals",
+            "Note":"Chamba"
+        },
+        {
+            "SerialNo":3,
+            "Name":"Soap",
+            "Quantity":1,
+            "Unit": "cover",
+            "Department":"Soap",
+            "Note":"Good Smell"
+        },
+        {
+            "SerialNo":4,
+            "Name":"Chilli Powder",
+            "Quantity":100,
+            "Unit": "gm",
+            "Department":"Chilli Powder",
+            "Note":"Expiry Date"
+        },
+        {
+            "SerialNo":5,
+            "Name":"Agarbathi",
+            "Quantity":1,
+            "Unit": "cover",
+            "Department":"Agarbathi",
+            "Note":"Smell"
+        },
+        {
+            "SerialNo":6,
+            "Name":"Fish",
+            "Quantity":2,
+            "Unit": "piece",
+            "Department":"Market",
+            "Note":"Fresh One"
+        },
+        {
+            "SerialNo":7,
+            "Name":"Coconut Oil",
+            "Quantity":1,
+            "Unit": "l",
+            "Department":"Oil",
+            "Note":"KERA"
+        },
+        {
+            "SerialNo":8,
+            "Name":"Ice-cream",
+            "Quantity":500,
+            "Unit": "g",
+            "Department":"Milk & Milk Products",
+            "Note":"Vannila - Meriboy"
+        },
+        {
+            "SerialNo":9,
+            "Name":"Paneer",
+            "Quantity":500,
+            "Unit": "g",
+            "Department":"Milk & Milk Products",
+            "Note":"Milky Mist"
+        },
+        {
+            "SerialNo":10,
+            "Name":"Cake",
+            "Quantity":1,
+            "Unit": "kg",
+            "Department":"Snacks",
+            "Note":"Banana Cake"
+        }
+    ]
+}
